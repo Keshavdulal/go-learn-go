@@ -5,6 +5,6 @@ package main
 import "fmt"
 
 // goland is colloquial-ish in nature yall know soon
-func main(){
+func main() {
 	fmt.Println("Hello, World this is Go")
 }
