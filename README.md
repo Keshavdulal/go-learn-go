@@ -15,9 +15,10 @@
 
 _This will output the output to console only._
 
-## Documentations on the go
+## Offline Docs (godoc)
 
 > godoc pkgName
+
 > godoc pkgName funcName
 
 ## Code Commenting [C-style]
